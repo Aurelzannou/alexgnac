@@ -1,0 +1,11 @@
+6a git pull est utile lorsque vous souhaitez rapidement recuperer
+ les modificationsavant de les fusionner dans votre branche locale.cependant
+si vous voulez exxaminer les modifications avant de les fusionner dans votre branche local alors git fetch est la meillieur la meillieur
+
+
+
+git checkout
+
+
+
+git long  
